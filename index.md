@@ -45,3 +45,39 @@ Here are some of my goals:
 ```python
 def greet(name):
     return f"Hello, {name}!"
+
+
+
+## Links
+
+External link: [GitHub](https://github.com)
+
+Section link: [Go to Goals](#goals)
+
+Relative link to my README: [README](README.md)
+
+Relative link to an image file: [My dog picture](images/profile.jpg)
+
+## Lists
+
+Unordered list:
+- school
+- work
+- personal growth
+
+Ordered list:
+1. finish lab
+2. publish site
+3. submit to Gradescope
+
+## Tasks
+
+- [x] Create repository
+- [x] Edit README
+- [x] Create .gitignore
+- [ ] Finish my user page
+- [ ] Publish GitHub Pages
+
+## Pictures
+
+![My dog picture](images/profile.jpg)

@@ -80,4 +80,5 @@ Ordered list:
 
 ## Pictures
 
-![My dog picture](images/profile.jpg)
+![My dogs at the beach](images/dogs-beach.jpg)
+

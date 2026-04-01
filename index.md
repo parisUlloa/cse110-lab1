@@ -56,7 +56,7 @@ Section link: [Go to Goals](#goals)
 
 Relative link to my README: [README](README.md)
 
-Relative link to an image file: [My dog picture](images/profile.jpg)
+Relative link to an image file: [My dogs at the beach](images/dogs-beach.jpg)
 
 ## Lists
 
@@ -81,4 +81,3 @@ Ordered list:
 ## Pictures
 
 ![My dogs at the beach](images/dogs-beach.jpg)
-
